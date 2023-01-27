@@ -1,6 +1,6 @@
 <div id="header" align="center">
-  <img src="https://github.com/MariaEgorenko/MariaEgorenko/blob/main/resources/testirovshchik.png?raw=true" height="200" width="500">
-  <h1  style="border-botton: 1px solid blue">Hi there, I'm Maria</h1>
+  <img src="https://github.com/MariaEgorenko/MariaEgorenko/blob/main/resources/gifnprofile.gif?raw=true" width="1000">
+  <h1>Hi there, I'm Maria</h1>
   <h3>I want to become QA Engineer</h3>
   <a href="https://web.telegram.org/k/#@The_ashen">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white">
@@ -17,8 +17,8 @@
   <li>🛠 I'm currently learning testing tools</li>
 </ul>
 <br/>
-<h2>Link to my <a href="https://drive.google.com/file/d/1qKjRjTqIKXQK2q0eIpb6-Up6ryXegFTI/view?usp=sharing">CV</a>
-<hr style="border-top: 1px solid blue"></h2>
+<h2>Link to my <a href="https://drive.google.com/file/d/1qKjRjTqIKXQK2q0eIpb6-Up6ryXegFTI/view?usp=sharing">CV</a></h2>
+<hr></hr>
 <h2>Language and Tools:</h2>
 <br/>
 <p>
