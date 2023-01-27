@@ -18,9 +18,7 @@
 </ul>
 <br/>
 <h2>Link to my <a href="https://drive.google.com/file/d/1qKjRjTqIKXQK2q0eIpb6-Up6ryXegFTI/view?usp=sharing">CV</a></h2>
-<hr></hr>
 <h2>Language and Tools:</h2>
-<br/>
 <p>
   <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=for-the-badge">
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge">
