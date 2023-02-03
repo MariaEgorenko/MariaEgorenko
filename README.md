@@ -1,12 +1,9 @@
 <div id="header" align="center">
   <img src="https://github.com/MariaEgorenko/MariaEgorenko/blob/main/resources/gifnprofile.gif?raw=true" width="1000">
   <h1>Hi there, I'm Maria</h1>
-  <h3>I want to become QA Engineer</h3>
+  <h3>I want to become QA Engineer in the game industry</h3>
   <a href="https://web.telegram.org/k/#@The_ashen">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/maria-egorenko-a175b0254/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
 <br/>  
@@ -18,7 +15,7 @@
 </ul>
 <br/>
 <h2>Link to my <a href="https://drive.google.com/file/d/1qKjRjTqIKXQK2q0eIpb6-Up6ryXegFTI/view?usp=sharing">CV</a></h2>
-<h2>Language and Tools:</h2>
+<h2>Languages and Tools:</h2>
 <p>
   <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=for-the-badge">
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge">
@@ -34,9 +31,9 @@
 <br/>
 <h2>Testing Documentation:</h2>
 <ul>
-  <li><a>Checklists</a></li>
-  <li><a>Test-case</a></li>
-  <li><a>Bug-Reports</a></li>
-  <li><a>SQL Queries</a></li>
-  <li><a>Postman Collection</a></li>
+  <li><a href="https://github.com/MariaEgorenko/checklists">Checklists</a></li>
+  <li><a href="https://github.com/MariaEgorenko/Test-case.git">Test-case</a></li>
+  <li><a href ="https://github.com/MariaEgorenko/Bug-Reports.git">Bug-Reports</a></li>
+  <li><a href="https://github.com/MariaEgorenko/SQL_Queries">SQL Queries</a></li>
+  <li><a href="https://github.com/MariaEgorenko/Postman_Collection">Postman Collection</a></li>
 </ul>
