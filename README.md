@@ -1,10 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/MariaEgorenko/MariaEgorenko/blob/main/resources/gifnprofile.gif?raw=true" width="1000">
   <h1>Hi there, I'm Maria</h1>
-  <h3>I want to become QA Engineer</h3>
-  <a href="https://web.telegram.org/k/#@The_ashen">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white">
-  </a>
 </div>
 <br/>  
 <h2>About me:</h2>
