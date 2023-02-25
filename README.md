@@ -9,7 +9,7 @@
   <li>🛠 I'm currently learning testing tools</li>
 </ul>
 <br/>
-<h2>Link to my <a href="https://drive.google.com/file/d/1qKjRjTqIKXQK2q0eIpb6-Up6ryXegFTI/view?usp=sharing">CV</a></h2>
+<h2>Link to my <a href="https://mariaegorenko.github.io/cv_en/">CV</a></h2>
 <h2>Languages and Tools:</h2>
 <p>
   <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=for-the-badge">
